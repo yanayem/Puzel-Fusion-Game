@@ -1,0 +1,7 @@
+Einstein,This person developed the theory of relativity
+Newton,This person discovered gravity
+Tesla,This person was a pioneer in electrical engineering
+Curie,This person discovered radioactivity
+Darwin,This person developed the theory of evolution
+Yunus,The only nobel laureate of Bangladesh
+Messi,Greatest footballer of all time

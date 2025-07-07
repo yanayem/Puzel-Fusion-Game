@@ -1,0 +1,11 @@
+Mexico,Hint: This country shares a border with the USA
+France,Hint: This country has the Eiffel tower
+Italy,Hint: This country has the city called Rome
+Argentina,Hint: This country is famous for playing football.
+Japan,Hint: The country in which anime was created
+Australia,Hint: This country has kangaroos
+Egypt,Hint: This country has giant pyramids
+Singapore,Hint: This country has an amazing airport called Changi Airport
+China,Hint: This country has a place called Beijing
+Turkey,Hint: This country has a place called Istanbul
+Bangladesh,Hint: This country has Largest sea beach in the world
