@@ -1,1 +1,3 @@
-# Word-Guessing
+<h1> Puzel-Fusion</h1>
+<p>Puzzelfussion is a console-based guessing game developed in C++ that challenges players to solve word, number, and logic puzzles within a limited number of attempts. The game features user authentication, dynamic game modes like "Guess the Country" and "Math Problems," and maintains competitive leaderboards. Through efficient file handling, Puzzelfussion ensures data persistence by storing player scores and game history, allowing for continuity across sessions. The user interface is text-based, designed for simplicity and ease of use, with real-time feedback and hints to enhance player engagement. The back-end manages core game logic, user authentication, and data handling, providing a seamless gaming experience. This project aims to deliver an entertaining and challenging game that tracks player progress and achievements, combining technical proficiency with creative game design.
+</p>
